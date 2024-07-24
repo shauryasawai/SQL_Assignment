@@ -1,9 +1,7 @@
 # SQL_Project_Music_Store_Analysis
 SQL project to analyze online music store data
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
-
-
+Welcome to my first SQL project! In this project, I've tackled a series of questions based on a Music Playlist database. This database contains information about songs, artists, albums, and playlists, and I've used SQL to extract, analyze, and manipulate this data to answer various queries.
 
 ## Database and Tools
 * Postgre SQL
